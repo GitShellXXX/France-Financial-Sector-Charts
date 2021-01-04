@@ -13,7 +13,7 @@ Zan Jin
 # Screenshots
 ![s1](https://user-images.githubusercontent.com/41856688/103575265-73882180-4e9f-11eb-990f-d8481ecfa7d0.png)
 
-![s2](https://user-images.githubusercontent.com/41856688/103575269-7551e500-4e9f-11eb-84cd-15a9a7f65fc2.png)
+![s2](https://user-images.githubusercontent.com/41856688/103577025-0c1fa100-4ea2-11eb-9465-25232ab740e4.png)
 
 ![s3](https://user-images.githubusercontent.com/41856688/103575276-771ba880-4e9f-11eb-984e-b952b71d65ac.png)
 
