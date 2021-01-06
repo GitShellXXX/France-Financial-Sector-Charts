@@ -3,6 +3,9 @@ This is a demonstration of the interactive Python framework developed using [Plo
 
 Interactive charts created here are snapshots of financial conditions in France, 2020.
 
+# App
+[Try the app here!](https://frafin.herokuapp.com/)
+
 # Author
 Zan Jin
 
