@@ -12,6 +12,7 @@ Zan Jin
 # Built With
 * [Plotly](https://plotly.com/)
 * [Dash](https://dash.plotly.com/)
+* [Heroku](https://www.heroku.com/)
 
 # Screenshots
 ![s1](https://user-images.githubusercontent.com/41856688/103575265-73882180-4e9f-11eb-990f-d8481ecfa7d0.png)
