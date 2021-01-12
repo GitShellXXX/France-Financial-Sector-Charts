@@ -1,4 +1,4 @@
-# France Financial Sector Charts 
+# Interactive Web App for France Financial Sector Charts 
 This is a demonstration of the interactive Python framework developed using [Plotly](https://plotly.com/) and [Dash](https://dash.plotly.com/).
 
 Interactive charts created here are snapshots of financial conditions in France, 2020.
